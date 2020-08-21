@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Java/Spring/Angular/Typescript...
+- 🌱 I’m currently learning Java/Spring/Angular/Typescript...
+- 👯 I’m looking to collaborate on OpensourceProjects and Similar mindes
+- 🤔 I’m looking for help with nothing in particular
+- 💬 Ask me about Java, Web Architecture 
+- 📫 How to reach me: contact at vpv.io
+
 <!--
 **reflexdemon/reflexdemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
