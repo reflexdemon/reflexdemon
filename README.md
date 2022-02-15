@@ -2,9 +2,11 @@
 
 - 🔭 I’m currently working on Java/Spring/Angular/Typescript...
 - 🌱 I’m currently learning Java/Spring/Angular/Typescript...
-- 👯 I’m looking to collaborate on OpensourceProjects and Similar mindes
+- 👯 I’m looking to collaborate on Opensource Projects and Similar mindes
 - 🤔 I’m looking for help with nothing in particular
-- 💬 Ask me about Java, Web Architecture 
+- 💬 Ask me about Java, Web Architecture and anything related to my passion...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I only write `Hello, World`
 - 📫 How to reach me: contact at vpv.io
 
 <!--
